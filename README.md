@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manjit Kumar Sahoo</h1>
 <h3 align="center">A passionate MERN full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalatendubhatta&label=Profile%20views&color=0e75b6&style=flat" alt="lalatendubhatta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjitkumarsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Manjitkumarsahoo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalatendubhatta" alt="lalatendubhatta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manjitkumarsahoo" alt="Manjitkumarsahoo" /></a> </p>
 
 - 🔭 I’m currently working on **Patient Dash-Board**
 
